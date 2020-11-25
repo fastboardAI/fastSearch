@@ -1,5 +1,8 @@
 # fastSearch
-A production ready multi-purpose search framework based on top of ElasticSearch
+A production ready multi-purpose custom search framework based on top of ElasticSearch for applications in e-commerce
+
+> The fastSearch Project.
+![fastSearch](./fastSearchLogo.png)
 
 ## What you can do with fastSearch?
 - Index your data using fastSearch 
