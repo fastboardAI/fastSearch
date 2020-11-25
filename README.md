@@ -12,4 +12,6 @@ A production ready multi-purpose custom search framework based on top of Elastic
 ## Technologies used and dependencies
 - Apache Lucene, ElasticSearch, Transformers
 
- 
+## Usage
+- fastSearch will be supported on Shopify and other seller platforms  
+- fastSearch will also be available as a Python library, and a run-time API 
